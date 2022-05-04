@@ -9,6 +9,7 @@
 # IP-CIDR: 110
 # IP6-CIDR: 4
 # TOTAL: 25810
+# kayoivent modified
 HOST,addons.mozilla.org,Global
 HOST,amp-api.podcasts.apple.com,Global
 HOST,api.waqi.info,Global
