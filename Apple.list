@@ -1,6 +1,15 @@
+# NAME: Apple
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-02-25 14:58:35
+# HOST: 3
+# HOST-SUFFIX: 77
+# HOST-KEYWORD: 7
+# USER-AGENT: 7
+# IP-CIDR: 10
+# TOTAL: 104
 HOST,api.smoot.apple.cn,Apple
 HOST,apple-events.akamaized.net,Apple
-HOST,apple.comscoreresearch.com,Apple
 HOST-SUFFIX,aaplimg.com,Apple
 HOST-SUFFIX,akadns.net,Apple
 HOST-SUFFIX,apple-cloudkit.com,Apple
@@ -14,7 +23,6 @@ HOST-SUFFIX,apple.com.cdn20.com,Apple
 HOST-SUFFIX,apple.com.cn,Apple
 HOST-SUFFIX,apple.com.mwcloudcdn.com,Apple
 HOST-SUFFIX,apple.com.mwcname.com,Apple
-HOST-SUFFIX,apple.news,Apple
 HOST-SUFFIX,appleicloud.cn,Apple
 HOST-SUFFIX,applemusic.com,Apple
 HOST-SUFFIX,applemx-icloud.com,Apple
@@ -75,7 +83,6 @@ HOST-SUFFIX,myicloud.net,Apple
 HOST-SUFFIX,mylcloud.net,Apple
 HOST-SUFFIX,mzstatic.com,Apple
 HOST-SUFFIX,safebrowsing.apple,Apple
-HOST-SUFFIX,smoot.apple.com,Global
 HOST-SUFFIX,store.apple.com.edgekey.net,Apple
 HOST-SUFFIX,www.apple.com.edgekey.net,Apple
 HOST-SUFFIX,wwwicloud.com,Apple
@@ -86,11 +93,9 @@ HOST-KEYWORD,icloud.com.akadns.net,Apple
 HOST-KEYWORD,icoudo,Apple
 HOST-KEYWORD,icoudos,Apple
 HOST-KEYWORD,testflight,Apple
-USER-AGENT,AppleNews*,Apple
 USER-AGENT,AppleTV*,Apple
 USER-AGENT,Music*,Apple
 USER-AGENT,com.apple.appstored*,Apple
-USER-AGENT,com.apple.news*,Apple
 USER-AGENT,com.apple.trustd*,Apple
 USER-AGENT,com.apple.tv*,Apple
 IP-CIDR,139.178.128.0/18,Apple
