@@ -11,3 +11,6 @@ HOST-SUFFIX,api*.smoot.apple.com,Apple News
 HOST-SUFFIX,smoot.apple.com,Apple News
 HOST,news-client-search.apple.com,Apple News
 HOST,news-client.apple.com,Apple News
+HOST-SUFFIX,apple.news,Apple News
+USER-AGENT,com.apple.news*,Apple News
+USER-AGENT,AppleNews*,Apple News
