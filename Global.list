@@ -1,5 +1,6 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
+# Modified by Kayoivent
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2022-04-30 02:15:41
 # HOST-SUFFIX: 25574
@@ -9,11 +10,9 @@
 # IP-CIDR: 110
 # IP6-CIDR: 4
 # TOTAL: 25810
-# kayoivent modified
 HOST,addons.mozilla.org,Global
 HOST,amp-api.podcasts.apple.com,Global
 HOST,api.waqi.info,Global
-HOST,apple.comscoreresearch.com,Global
 HOST,aqi.aqicn.org,Global
 HOST,assets-priconne-redive-us.akamaized.net,Global
 HOST,az416426.vo.msecnd.net,Global
@@ -29,16 +28,10 @@ HOST,devstreaming-cdn.apple.com,Global
 HOST,ds-linear-abematv.akamaized.net,Global
 HOST,ds-vod-abematv.akamaized.net,Global
 HOST,edge.api.brightcove.com,Global
-HOST,gateway.icloud.com,Global
 HOST,hamifans.emome.net,Global
 HOST,js-cdn.music.apple.com,Global
 HOST,kktv-theater.kk.stream,Global
 HOST,lookup-api.apple.com,Global
-HOST,news-assets.apple.com,Global
-HOST,news-client-search.apple.com,Global
-HOST,news-client.apple.com,Global
-HOST,news-edge.apple.com,Global
-HOST,news-events.apple.com,Global
 HOST,p16-tiktokcdn-com.akamaized.net,Global
 HOST,players.brightcove.net,Global
 HOST,testflight.apple.com,Global
